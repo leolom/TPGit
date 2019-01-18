@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	439748187	TPGit			\Default Work Unit\TPGit	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	671961602	Thunder_Storm_1	D:\leo L\projets\TPGit\TPGit_WwiseProject\.cache\Mac\SFX\Thunder_Storm_1_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Thunder_Storm_1		1112708
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{B640D43F-793E-4483-A356-244C60CCB710}" SchemaVersion="89">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{B640D43F-793E-4483-A356-244C60CCB710}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="TPGit" ID="{EC6289BE-8DA6-4650-B144-66D2D68C6B54}">
+					<ChildrenList>
+						<Action Name="" ID="{B2CB21D1-ACDD-4F50-80F5-D624AC781C42}" ShortID="647940439">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Thunder_Storm_1" ID="{6BA34B47-2D78-4C1A-AD91-A9F1A85DE880}" WorkUnitID="{5B237825-9FE9-4C8A-B4BB-3A2EB1BCA07B}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

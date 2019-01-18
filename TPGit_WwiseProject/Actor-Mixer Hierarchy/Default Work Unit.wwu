@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{5B237825-9FE9-4C8A-B4BB-3A2EB1BCA07B}" SchemaVersion="89">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{5B237825-9FE9-4C8A-B4BB-3A2EB1BCA07B}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="Thunder_Storm_1" ID="{6BA34B47-2D78-4C1A-AD91-A9F1A85DE880}" ShortID="742020581">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{C0410919-563C-40DA-8598-ADEC7309B91D}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{E896DEBC-2FCF-4C5A-8E0D-093FBE1ACDF4}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Thunder_Storm_1" ID="{FB142379-70B8-41E8-AE19-0EE8AFD6E034}" ShortID="671961602">
+							<Language>SFX</Language>
+							<AudioFile>Thunder_Storm_1.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="Thunder_Storm_1" ID="{FB142379-70B8-41E8-AE19-0EE8AFD6E034}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>
